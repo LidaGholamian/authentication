@@ -1,5 +1,7 @@
 # Authentication
 
+an Authentication system with Next.js 14, TypeScript, Tailwind CSS, ZOD and React Hook Form
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
