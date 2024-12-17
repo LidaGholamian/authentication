@@ -10,7 +10,7 @@ export default function AuthTemplate({
       <section className="flex-1 p-10  flex flex-col">{children}</section>
       <section className="flex-1 p-10">
         <div className="dark:bg-primary-focus rounded-lg shadow-lg dark:text-white flex flex-col items-center justify-around text-center p-6">
-          <h5 className="text-xl">کلاسبن؛ آموزش متفاوت برنامه نویسی</h5>
+          <h5 className="text-xl">کلاس‌تو؛ آموزش متفاوت برنامه نویسی</h5>
           <div className="dark:bg-primary dark:bg-opacity-50 p-2 rounded-full w-80 h-80 my-8 flex justify-center items-center">
             <div className="dark:bg-primary dark:bg-opacity-90 p-2 rounded-full w-72 h-72 my-6 flex justify-center dark:border-white border dark:border-opacity-10 relative">
               <Image
